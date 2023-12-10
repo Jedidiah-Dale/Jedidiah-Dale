@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jedidiah-Dale</h1>
 <h3 align="center">A passionate backend developer from Zimbabwe</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif")
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jedidiah-dale" alt="jedidiah-dale" /></a> </p>
