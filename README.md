@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg)](https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg)
+[![MasterHead](https://i.pinimg.com/originals/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg)
 
 <h1 align="center">Hi 👋, I'm Jedidiah-Dale</h1>
 <h3 align="center">A passionate backend developer from Zimbabwe</h3>
